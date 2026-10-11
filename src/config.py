@@ -7,6 +7,8 @@ DATA_DIR = ROOT / "data"
 RAW_DIR = DATA_DIR / "raw"
 PROCESSED_DIR = DATA_DIR / "processed"
 
+INEP_DIR = RAW_DIR / "inep"
+
 IBGE_DIR = RAW_DIR / "ibge"
 SPATIAL_DIR = IBGE_DIR / "spatial"
 AGG_DIR = IBGE_DIR / "agg"
