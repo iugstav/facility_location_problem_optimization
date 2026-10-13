@@ -1,7 +1,8 @@
 # dataset and EDA folder
-data/
+/data/
 
 # Python-generated files
+/cache/
 __pycache__/
 *.py[oc]
 build/

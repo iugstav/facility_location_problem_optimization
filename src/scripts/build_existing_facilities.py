@@ -51,7 +51,7 @@ def main():
         )
     )
 
-    valid_facilities.write_parquet(OUTPUT_FILE, compression="zstd")
+    facilities.write_parquet(OUTPUT_FILE, compression="zstd")
 
 
 if __name__ == "__main__":
