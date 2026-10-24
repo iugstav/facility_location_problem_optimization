@@ -9,6 +9,8 @@ PROCESSED_DIR = DATA_DIR / "processed"
 
 INEP_DIR = RAW_DIR / "inep"
 
+FNDE_DIR = RAW_DIR / "fnde"
+
 IBGE_DIR = RAW_DIR / "ibge"
 SPATIAL_DIR = IBGE_DIR / "spatial"
 AGG_DIR = IBGE_DIR / "agg"
